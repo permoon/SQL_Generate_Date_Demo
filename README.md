@@ -8,11 +8,6 @@
 
 ### 📘 文件與指南 (Documentation)
 
-*   **`AI_CRM_Collaboration_Guide.html`**
-    *   **用途**：給非技術管理者的操作指南 (HTML 版)。
-    *   **內容**：包含完整的 Prompt 範例、協作流程四部曲 (Define, Generate, Refine, EDA)。
-    *   **特色**：排版精美，附有一鍵複製 Prompt 的功能。
-
 *   **`AI_CRM_Collaboration_Guide.md`**
     *   **用途**：操作指南的原始 Markdown 文件。
     *   **內容**：同上，適合在編輯器中查看或修改。
